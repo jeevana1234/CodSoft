@@ -24,3 +24,5 @@ number.
 Footer: Add a copyright notice and any additional links or information.
 
 Portfolio: https://65edf01a28bd13923702b75b--loquacious-cupcake-dc2710.netlify.app/
+
+![image](https://github.com/jeevana1234/CodeSoft/assets/77741877/5984baa3-71a7-49df-9ef9-787223a7349a)
