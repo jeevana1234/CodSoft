@@ -1,3 +1,0 @@
-[build]
-base = "https://github.com/jeevana1234/CodeSoft"
-publish = "https://github.com/jeevana1234/CodeSoft/tree/master/job-board/job_board"
